@@ -1,0 +1,20 @@
+[
+  {
+    "name": "原神",
+    "email": "1",
+    "password": "1",
+    "avatar": "/uploads/1_avatar.png"
+  },
+  {
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "123456",
+    "avatar": "/uploads/admin@example.com_avatar.png"
+  },
+  {
+    "name": "1",
+    "email": "1",
+    "password": "1",
+    "avatar": "/uploads/1_avatar.png"
+  }
+]
